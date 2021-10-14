@@ -12,5 +12,5 @@ Já está pré-configurado:
 Obersvação:
 
 * Verificar a versão:
-* Ruby, Bundler, Rails
-* Para não dar conflito de versão.
+  * Ruby, Bundler, Rails
+  * Para não dar conflito de versão.
